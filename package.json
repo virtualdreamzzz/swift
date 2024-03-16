@@ -1,0 +1,22 @@
+{
+  "name": "swift",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "\\"
+  ],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/virtualdreamzzz/swift.git"
+  },
+  "bugs": {
+    "url": "https://github.com/virtualdreamzzz/swift/issues"
+  },
+  "homepage": "https://github.com/virtualdreamzzz/swift#readme",
+  "description": ""
+}
